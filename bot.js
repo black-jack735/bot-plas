@@ -903,4 +903,4 @@ client.on("message", message => {
   }
 });
 
-client.login("gxNTc0MTMxNzQ0ODIw.X8FjFw.1n7JsP4iBILoYXkqDOa0WXDY8U0");
+client.login("")
